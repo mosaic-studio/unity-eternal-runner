@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d088e599-50ae-4969-9a7d-b0402c00e07e" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Scripts/Robots/PhysicsObject.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Assets/Scripts/Robots/PhysicsObject.cs.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Animations/Robot.controller" afterPath="$PROJECT_DIR$/Assets/Animations/Robot.controller" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Animations/Running.anim" afterPath="$PROJECT_DIR$/Assets/Animations/Running.anim" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Levels/Level00.unity" afterPath="$PROJECT_DIR$/Assets/Levels/Level00.unity" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Scripts/Robots/PlayerController.cs" afterPath="$PROJECT_DIR$/Assets/Scripts/Robots/PlayerController.cs" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="PlayerController.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Robots/PlayerController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="19" column="4" lean-forward="false" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+              <folding>
+                <marker date="1512878045196" expanded="true" signature="6:92" ph="..." />
+                <marker date="1512878045196" expanded="true" signature="139:1545" ph="{...}" />
+                <marker date="1512878045196" expanded="true" signature="295:391" ph="{...}" />
+                <marker date="1512878045196" expanded="true" signature="395:476" ph="/* Update is called once per frame ... */" />
+                <marker date="1512878045196" expanded="true" signature="521:1111" ph="{...}" />
+                <marker date="1512878045196" expanded="true" signature="647:686" ph="{...}" />
+                <marker date="1512878045196" expanded="true" signature="724:798" ph="{...}" />
+                <marker date="1512878045196" expanded="true" signature="752:794" ph="{...}" />
+                <marker date="1512878045196" expanded="true" signature="900:957" ph="{...}" />
+                <marker date="1512878045196" expanded="true" signature="1125:1428" ph="{...}" />
+                <marker date="1512878045196" expanded="true" signature="1323:1381" ph="{...}" />
+                <marker date="1512878045196" expanded="true" signature="1388:1425" ph="{...}" />
+                <marker date="1512878045196" expanded="true" signature="1442:1543" ph="{...}" />
+                <marker date="1512878045196" expanded="true" signature="1503:1537" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PhysicsObject.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Robots/PhysicsObject.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1590">
+              <caret line="106" column="1" lean-forward="false" selection-start-line="106" selection-start-column="1" selection-end-line="106" selection-end-column="1" />
+              <folding>
+                <marker date="1512877897018" expanded="true" signature="6:78" ph="..." />
+                <marker date="1512877897018" expanded="true" signature="123:2930" ph="{...}" />
+                <marker date="1512877897018" expanded="true" signature="682:739" ph="{...}" />
+                <marker date="1512877897018" expanded="true" signature="759:946" ph="{...}" />
+                <marker date="1512877897018" expanded="true" signature="971:1051" ph="{...}" />
+                <marker date="1512877897018" expanded="true" signature="1097:1114" ph="{...}" />
+                <marker date="1512877897018" expanded="true" signature="1138:1602" ph="{...}" />
+                <marker date="1512877897018" expanded="true" signature="1651:2927" ph="{...}" />
+                <marker date="1512877897018" expanded="true" signature="1740:2852" ph="{...}" />
+                <marker date="1512877897018" expanded="true" signature="1923:1989" ph="{...}" />
+                <marker date="1512877897018" expanded="true" signature="2049:2840" ph="{...}" />
+                <marker date="1512877897018" expanded="true" signature="2186:2438" ph="{...}" />
+                <marker date="1512877897018" expanded="true" signature="2277:2420" ph="{...}" />
+                <marker date="1512877897018" expanded="true" signature="2550:2656" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Robots/PhysicsObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Robots/PlayerController.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Robots/PhysicsObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Robots/PlayerController.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="580" />
+    <option name="y" value="40" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Eternal Runner (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Eternal Runner (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Eternal Runner (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assets" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Eternal Runner (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assets" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Scripts" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Eternal Runner (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assets" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Scripts" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Robots" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Unity Debug.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d088e599-50ae-4969-9a7d-b0402c00e07e" name="Default" comment="" />
+      <created>1512874315311</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1512874315311</updated>
+      <workItem from="1512874327332" duration="402000" />
+      <workItem from="1512874839165" duration="2540000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2942000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="2576" height="1096" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960325" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13515624" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Robots/PlayerController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1512878045196" expanded="true" signature="6:92" ph="..." />
+            <marker date="1512878045196" expanded="true" signature="139:1545" ph="{...}" />
+            <marker date="1512878045196" expanded="true" signature="295:391" ph="{...}" />
+            <marker date="1512878045196" expanded="true" signature="395:476" ph="/* Update is called once per frame ... */" />
+            <marker date="1512878045196" expanded="true" signature="521:1111" ph="{...}" />
+            <marker date="1512878045196" expanded="true" signature="647:686" ph="{...}" />
+            <marker date="1512878045196" expanded="true" signature="724:798" ph="{...}" />
+            <marker date="1512878045196" expanded="true" signature="752:794" ph="{...}" />
+            <marker date="1512878045196" expanded="true" signature="900:957" ph="{...}" />
+            <marker date="1512878045196" expanded="true" signature="1125:1428" ph="{...}" />
+            <marker date="1512878045196" expanded="true" signature="1323:1381" ph="{...}" />
+            <marker date="1512878045196" expanded="true" signature="1388:1425" ph="{...}" />
+            <marker date="1512878045196" expanded="true" signature="1442:1543" ph="{...}" />
+            <marker date="1512878045196" expanded="true" signature="1503:1537" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Robots/PhysicsObject.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1590">
+          <caret line="106" column="1" lean-forward="false" selection-start-line="106" selection-start-column="1" selection-end-line="106" selection-end-column="1" />
+          <folding>
+            <marker date="1512877897018" expanded="true" signature="6:78" ph="..." />
+            <marker date="1512877897018" expanded="true" signature="123:2930" ph="{...}" />
+            <marker date="1512877897018" expanded="true" signature="682:739" ph="{...}" />
+            <marker date="1512877897018" expanded="true" signature="759:946" ph="{...}" />
+            <marker date="1512877897018" expanded="true" signature="971:1051" ph="{...}" />
+            <marker date="1512877897018" expanded="true" signature="1097:1114" ph="{...}" />
+            <marker date="1512877897018" expanded="true" signature="1138:1602" ph="{...}" />
+            <marker date="1512877897018" expanded="true" signature="1651:2927" ph="{...}" />
+            <marker date="1512877897018" expanded="true" signature="1740:2852" ph="{...}" />
+            <marker date="1512877897018" expanded="true" signature="1923:1989" ph="{...}" />
+            <marker date="1512877897018" expanded="true" signature="2049:2840" ph="{...}" />
+            <marker date="1512877897018" expanded="true" signature="2186:2438" ph="{...}" />
+            <marker date="1512877897018" expanded="true" signature="2277:2420" ph="{...}" />
+            <marker date="1512877897018" expanded="true" signature="2550:2656" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Robots/PlayerController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="19" column="4" lean-forward="false" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+          <folding>
+            <marker date="1512878045196" expanded="true" signature="6:92" ph="..." />
+            <marker date="1512878045196" expanded="true" signature="139:1545" ph="{...}" />
+            <marker date="1512878045196" expanded="true" signature="295:391" ph="{...}" />
+            <marker date="1512878045196" expanded="true" signature="395:476" ph="/* Update is called once per frame ... */" />
+            <marker date="1512878045196" expanded="true" signature="521:1111" ph="{...}" />
+            <marker date="1512878045196" expanded="true" signature="647:686" ph="{...}" />
+            <marker date="1512878045196" expanded="true" signature="724:798" ph="{...}" />
+            <marker date="1512878045196" expanded="true" signature="752:794" ph="{...}" />
+            <marker date="1512878045196" expanded="true" signature="900:957" ph="{...}" />
+            <marker date="1512878045196" expanded="true" signature="1125:1428" ph="{...}" />
+            <marker date="1512878045196" expanded="true" signature="1323:1381" ph="{...}" />
+            <marker date="1512878045196" expanded="true" signature="1388:1425" ph="{...}" />
+            <marker date="1512878045196" expanded="true" signature="1442:1543" ph="{...}" />
+            <marker date="1512878045196" expanded="true" signature="1503:1537" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
