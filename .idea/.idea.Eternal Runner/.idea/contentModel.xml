@@ -15,9 +15,12 @@
           </e>
         </e>
         <e p="Scripts" t="Include">
+          <e p="Aliens" t="Include">
+            <e p="PlayerControllerAliens.cs" t="Include" />
+          </e>
+          <e p="PhysicsObjectCustom.cs" t="Include" />
           <e p="Robots" t="Include">
-            <e p="PhysicsObject.cs" t="Include" />
-            <e p="PlayerController.cs" t="Include" />
+            <e p="PlayerControllerRobots.cs" t="Include" />
           </e>
         </e>
         <e p="Spritesheet" t="Include">
